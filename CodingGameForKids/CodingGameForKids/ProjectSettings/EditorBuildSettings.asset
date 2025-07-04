@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Asset/Scenes/MainMenuScene.unity
+    guid: 0c36ae5f4d46ac342baa702e6ed98ea9
+  - enabled: 1
+    path: Assets/Asset/Scenes/DoctorScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Asset/Scenes/PoliceScene.unity
+    guid: ec10053440f9fe240abacf70a377bc0d
+  - enabled: 1
+    path: Assets/Asset/Scenes/PostmanScene.unity
+    guid: b4bd8885deb9c7b4d9c26fe4f4e53889
+  - enabled: 1
+    path: Assets/Asset/Scenes/MonkeyScene.unity
+    guid: 1bef344cda4441c4687355a2086b5639
+  - enabled: 1
+    path: Assets/Asset/Scenes/ChickenScene.unity
+    guid: 2e4467b9b1f82bb45b718b5df8ad8126
+  - enabled: 1
+    path: Assets/Asset/Scenes/BoyScene.unity
+    guid: c04892abb3799f04ab3615a785cbcb07
+  - enabled: 1
+    path: Assets/Asset/Scenes/GirlScene.unity
+    guid: f28a67f8eaf791b4db9da9813cac15ac
+  - enabled: 1
+    path: Assets/Asset/Scenes/WashScene.unity
+    guid: b641948167d361648811bb464c9bd717
+  - enabled: 1
+    path: Assets/Asset/Scenes/SleepScene.unity
+    guid: 2f07c53d134a14a44873415762b01077
+  - enabled: 1
+    path: Assets/Asset/Scenes/VegScene.unity
+    guid: 66b0c71934ce1b04d937907b3e6476a7
+  - enabled: 1
+    path: Assets/Asset/Scenes/WaterScene.unity
+    guid: 107ebd2bf464cb047bfcc56d189d0250
+  - enabled: 1
+    path: Assets/Asset/Scenes/TrafficScene.unity
+    guid: ccac67d9e786bdb42b39570453ce12fc
+  - enabled: 1
+    path: Assets/Asset/Scenes/EndScene.unity
+    guid: 099c519f77011394ba847a59b54857fc
+  m_configObjects: {}
